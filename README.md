@@ -5,7 +5,7 @@ Repositorio con el código, los conjuntos de datos y la documentación técnica 
 ## Enlaces del Proyecto
 
 * **Visualización Interactiva (Infogram):** https://infogram.com/el-espejismo-stem-radiografia-de-la-brecha-salarial-y-la-paradoja-sectorial-en-europa-1h9j6q7q7owzv4g
-* **Presentación Audiovisual (Vídeo):** 
+* **Presentación Audiovisual (Vídeo):** https://drive.google.com/file/d/1k_aoZM7rz2HCxF99RkM18Mn9H_Sab0yH/view?usp=sharing
 
 ## Descripción del Proyecto
 
