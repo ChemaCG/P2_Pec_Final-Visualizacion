@@ -19,7 +19,7 @@ Los datos utilizados han sido extraídos de fuentes oficiales, procesados e inte
 
 ## Estructura de este Repositorio
 
-* `/notebooks`: Contiene el código en Python (Jupyter Notebook) utilizado para la limpieza, análisis exploratorio (EDA), integración del índice WEF y generación de *Data Marts* específicos.
+* `/notebooks`: Contiene el código en Python (Jupyter Notebook) utilizado para la limpieza, análisis exploratorio (EDA), integración del índice WEF y generación de datasets específicos para realizar las visualizaciones deseadas en la infografía.
 * `/data`: Contiene los micro-datasets optimizados en formato CSV utilizados para alimentar las gráficas interactivas.
 
 ## Herramientas Utilizadas
